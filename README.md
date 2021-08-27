@@ -5,3 +5,6 @@ The code herein is, (Currently), for the purpose(s) of showing how measurement i
 both in our means of measurement but also that of the fundamental unkowability of the source of any measurement, (Adversarial attacks etc.), and how the implications 
 for good decision making are that of a new number system that has the fewest possible assumptions baked in, (Which also makes it the largest). 
 
+FAQ: 
+1. "Why not Un-KNOWN Numbers?": Well what happens when we find em? We gonna change the name? Naw. 
+2. "Un-Reals? Any connection to Descartes good old Reals?": Not explicitly, got any better name ideas? 
